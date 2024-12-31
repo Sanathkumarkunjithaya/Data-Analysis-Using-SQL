@@ -89,7 +89,7 @@ This project can be applied in various scenarios:
 ## **Technologies Used**
 
 - **SQL** for data querying and analysis
-- **MySQL/MariaDB** for database management
+- **MySQL** for database management
 - **Triggers and Events** for automating tasks and ensuring real-time updates
 - **Temporary Tables and Stored Procedures** for optimized performance and reusable queries
 
